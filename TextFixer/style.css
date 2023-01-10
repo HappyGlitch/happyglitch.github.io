@@ -5,7 +5,7 @@
 textarea {
     resize: none;
     outline: none;
-    width: 50vw;
+    width: calc(100vw - 350px);
     height: calc(100vh - 160px);
     white-space: nowrap;
 }
@@ -25,5 +25,6 @@ body {
 }
 
 button {
-    margin-top: 30px;
+    margin-top: 40px;
+    height: 35px;
 }
