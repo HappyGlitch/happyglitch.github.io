@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> Here you will find some info about me.
+{: .prompt-info }
+I am a free software programmer. I like diving into low-level, close to the hardware stuff. My favourite programming languages are: C, Python and Java.
